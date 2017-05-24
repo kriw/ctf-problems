@@ -1,0 +1,1 @@
+strings nothing | grep FLAG
